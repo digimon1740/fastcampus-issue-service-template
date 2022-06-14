@@ -1,4 +1,4 @@
-package fastcampus.issueservice.config
+package com.fastcampus.issueservice.config
 
 import org.springframework.context.annotation.Configuration
 import org.springframework.core.MethodParameter

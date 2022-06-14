@@ -1,4 +1,4 @@
-package fastcampus.issueservice
+package com.fastcampus.issueservice
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
